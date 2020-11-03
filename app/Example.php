@@ -1,0 +1,13 @@
+<?php 
+
+namespace App;
+
+class Example{
+
+    public function handle(){
+        die('It works');
+    }
+}
+
+
+?>

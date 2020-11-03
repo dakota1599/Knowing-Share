@@ -1,0 +1,47 @@
+.profile{
+    margin:auto;
+    padding: 2em;
+    transition: .4s;
+}
+.profile h2, .profile h3, .profile h6{
+    text-align:center;
+}
+.profile input{
+    margin: 1em auto;
+}
+
+.posts{
+    text-align:center;
+    margin:auto;
+    width: 85%;
+}
+
+.container h1{
+    text-align: center;
+}
+.container{
+    margin-bottom: 5em;
+}
+
+.deleteButton{
+    max-width: auto;
+    text-align:right;
+    transition: .4s;
+}
+.deleteButton:hover{
+    background: red;
+    color:white;
+    max-width:100%;
+}
+
+.editButton{
+    max-width: auto;
+    text-align:right;
+    transition: .4s;
+}
+
+.editButton:hover{
+    background: orange;
+    color:black !important;
+    max-width:100%;
+}

@@ -1,0 +1,11 @@
+.profile{
+    width: 20em;
+    display:inline-block;
+    height: 10em;
+    border: 4px solid lightcoral;
+    margin: 1em;
+    padding: 1em;
+}
+.content{
+    text-align:center;
+}
